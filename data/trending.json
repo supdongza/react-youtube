@@ -1,0 +1,1572 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "vRKxEUqr1Tk-rgkWYUzntMoFsuM",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "ifIk2A0Bt6MWfFwwGrIhifdlsqw",
+      "id": "QdBZY2fkU-0",
+      "snippet": {
+        "publishedAt": "2023-12-04T23:07:10Z",
+        "channelId": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+        "title": "Grand Theft Auto VI Trailer 1",
+        "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockstar Games",
+        "tags": [
+          "Rockstar Games",
+          "Grand Theft Auto VI",
+          "GTAVI",
+          "GTA 6",
+          "GTA Six",
+          "Grand Theft Auto",
+          "GTA",
+          "Vice City",
+          "Leonida"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Grand Theft Auto VI Trailer 1",
+          "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ff369iINju2ltnCkT49QWy_QAK4",
+      "id": "GeKTrjGdJ2E",
+      "snippet": {
+        "publishedAt": "2023-12-06T15:00:06Z",
+        "channelId": "UCwJ3jufubi5oQRu6aY9vFWw",
+        "title": "LEGO Fortnite Cinematic Trailer",
+        "description": "The adventure is building. LEGO Fortnite arrives in Fortnite on December 7, 2023.\n\nFind LEGO Fortnite on:\nX (Formerly Twitter): https://twitter.com/LEGOFortnite\nInstagram: https://www.instagram.com/LEGOFortnite\nTikTok: https://www.tiktok.com/@legofortnite\nFacebook: https://www.facebook.com/LEGO.Fortnite\nDiscord: https://discord.com/invite/LEGOFortnite\nSnapchat: https://www.snapchat.com/add/legofortnite\nReddit: https://www.reddit.com/r/LEGOfortnite/\n\nDiscover LEGO Fortnite: https://www.lego.com/en-gb/themes/fortnite/about\nAnd join LEGO Insiders and link to your Epic account: https://www.lego.com/en-gb/insiders/home\n\n#LEGOFortnite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GeKTrjGdJ2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GeKTrjGdJ2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GeKTrjGdJ2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GeKTrjGdJ2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GeKTrjGdJ2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "LEGO Fortnite",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "LEGO Fortnite Cinematic Trailer",
+          "description": "The adventure is building. LEGO Fortnite arrives in Fortnite on December 7, 2023.\n\nFind LEGO Fortnite on:\nX (Formerly Twitter): https://twitter.com/LEGOFortnite\nInstagram: https://www.instagram.com/LEGOFortnite\nTikTok: https://www.tiktok.com/@legofortnite\nFacebook: https://www.facebook.com/LEGO.Fortnite\nDiscord: https://discord.com/invite/LEGOFortnite\nSnapchat: https://www.snapchat.com/add/legofortnite\nReddit: https://www.reddit.com/r/LEGOfortnite/\n\nDiscover LEGO Fortnite: https://www.lego.com/en-gb/themes/fortnite/about\nAnd join LEGO Insiders and link to your Epic account: https://www.lego.com/en-gb/insiders/home\n\n#LEGOFortnite"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7KIQPufNqdGo-tljWuEPLnxoq0o",
+      "id": "U4FAqwkn-pc",
+      "snippet": {
+        "publishedAt": "2023-12-06T14:00:31Z",
+        "channelId": "UCXlfi8sf6cKGQ8sOd0-yRuw",
+        "title": "[HOONIGAN] Ken Block’s Electrikhana TWO: One More Playground; Mexico City in the Audi S1 Hoonitron",
+        "description": "In November of 2022, Ken Block and the Hoonigan team headed to Mexico City, MX to film the next installment of the Electrikhana series with the Audi S1 Hoonitron. Just over one month later, the devastating loss of Ken Block meant that the project was shelved - until now.\n\nBlock, The Hoonigans, and Audi continue pushing the limits of what’s possible in the performance EV world with Electrikhana TWO, sliding through iconic areas of Mexico City in Block’s infamously aggressive, rally-inspired driving style. Improving the car immediately after the first film, Block and Audi built on important development lessons from their experience in Las Vegas.\n\nA BIG thank you goes out to the partners who helped make Electrikhana TWO possible:\n\nAudi\nhttps://www.instagram.com/audiofficial\nhttps://www.facebook.com/audiofficial\nhttps://twitter.com/AudiOfficial\nhttps://www.audi.com\n\nSpray Nine\nhttps://www.instagram.com/spraynineofficial\nhttps://www.facebook.com/SprayNine\nhttps://twitter.com/SprayNine\nhttps://www.youtube.com/@spraynine9155\n\nRotiform\nhttps://www.instagram.com/rotiform\nhttps://www.facebook.com/rotiformwheels\nhttps://twitter.com/rotiform\nhttps://www.youtube.com/rotiform\nhttp://www.rotiform.com\n\nToyo Tires\nhttps://www.instagram.com/toyotires\nhttps://www.facebook.com/TOYOTIRE\nhttps://www.youtube.com/user/toyotires\nhttps://www.toyotires.com\n\nMonster Energy\nhttps://www.instagram.com/monsterenergy\nhttps://www.facebook.com/MonsterEnergy\nhttps://twitter.com/MonsterEnergy\nhttps://www.youtube.com/MonsterEnergy\nhttps://www.monsterenergy.com\n\nKubota\nhttp://instagram.com/kubotausa\nhttp://facebook.com/kubotatractor\nhttps://www.youtube.com/user/Kubotatractorcorp\nhttps://www.kubotausa.com\n\n➤ Gear Up in Hoonigan Style: https://shop.hoonigan.com\n➤ Upgrade your ride with Throtl performance parts: https://throtl.com/?ref=Hoonigan\n\nDo yourself a favor and hit the bell so you don't miss any uploads!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U4FAqwkn-pc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U4FAqwkn-pc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U4FAqwkn-pc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U4FAqwkn-pc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U4FAqwkn-pc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hoonigan",
+        "tags": [
+          "electrikhana",
+          "electrickhana",
+          "Hoonigan",
+          "electric gymkhana",
+          "audi hoonitron",
+          "hoonigan racing",
+          "Ken Block",
+          "ken block gymkhana",
+          "audi s1 hoonitron",
+          "hoonigan ev",
+          "audi s1 quattro",
+          "car drift",
+          "cars",
+          "awd",
+          "modified cars",
+          "donuts",
+          "electric car",
+          "hooning",
+          "electricana",
+          "brian scotto",
+          "hoonicorn",
+          "juca",
+          "juca viapri",
+          "drifting",
+          "paddle shift",
+          "kb43",
+          "43i",
+          "43 institute",
+          "burnouts",
+          "hoon",
+          "ev race car",
+          "audi electric car",
+          "electrichana",
+          "mexico city",
+          "mexico df",
+          "audi etron",
+          "audi e tron",
+          "audi e-tron",
+          "Kb43ver"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "[HOONIGAN] Ken Block’s Electrikhana TWO: One More Playground; Mexico City in the Audi S1 Hoonitron",
+          "description": "In November of 2022, Ken Block and the Hoonigan team headed to Mexico City, MX to film the next installment of the Electrikhana series with the Audi S1 Hoonitron. Just over one month later, the devastating loss of Ken Block meant that the project was shelved - until now.\n\nBlock, The Hoonigans, and Audi continue pushing the limits of what’s possible in the performance EV world with Electrikhana TWO, sliding through iconic areas of Mexico City in Block’s infamously aggressive, rally-inspired driving style. Improving the car immediately after the first film, Block and Audi built on important development lessons from their experience in Las Vegas.\n\nA BIG thank you goes out to the partners who helped make Electrikhana TWO possible:\n\nAudi\nhttps://www.instagram.com/audiofficial\nhttps://www.facebook.com/audiofficial\nhttps://twitter.com/AudiOfficial\nhttps://www.audi.com\n\nSpray Nine\nhttps://www.instagram.com/spraynineofficial\nhttps://www.facebook.com/SprayNine\nhttps://twitter.com/SprayNine\nhttps://www.youtube.com/@spraynine9155\n\nRotiform\nhttps://www.instagram.com/rotiform\nhttps://www.facebook.com/rotiformwheels\nhttps://twitter.com/rotiform\nhttps://www.youtube.com/rotiform\nhttp://www.rotiform.com\n\nToyo Tires\nhttps://www.instagram.com/toyotires\nhttps://www.facebook.com/TOYOTIRE\nhttps://www.youtube.com/user/toyotires\nhttps://www.toyotires.com\n\nMonster Energy\nhttps://www.instagram.com/monsterenergy\nhttps://www.facebook.com/MonsterEnergy\nhttps://twitter.com/MonsterEnergy\nhttps://www.youtube.com/MonsterEnergy\nhttps://www.monsterenergy.com\n\nKubota\nhttp://instagram.com/kubotausa\nhttp://facebook.com/kubotatractor\nhttps://www.youtube.com/user/Kubotatractorcorp\nhttps://www.kubotausa.com\n\n➤ Gear Up in Hoonigan Style: https://shop.hoonigan.com\n➤ Upgrade your ride with Throtl performance parts: https://throtl.com/?ref=Hoonigan\n\nDo yourself a favor and hit the bell so you don't miss any uploads!"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3CopWJvmeP-VNEG2_d3431_yks8",
+      "id": "bMq4OtZTigk",
+      "snippet": {
+        "publishedAt": "2023-12-06T03:42:50Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "99 Details From the GTA 6 Trailer",
+        "description": "Don't miss our GTA 6 trailer breakdown! The GTA 6 trailer is finally here and we've looked over the entire footage and uncovered 99 hidden and hard to find details littered throughout our first look at GTA VI.\n\nThere are lots of cool new things to pick out from this brand new Grand Theft Auto 6 trailer from Rockstar Games, and in our GTA 6 trailer deep dive, we examine clues about GTA 6 map locations, hints about the GTA 6 world, glimpses of what might happen in the GTA 6 story, references to GTA Vice City, and more.\n\nThe GTA 6 release date is 2025 on PS5 and Xbox Series X/S.\n\nFor more on Grand Theft Auto VI, check out our GTA 6 trailer reaction video: https://www.youtube.com/watch?v=PuMSEkVqC9k\n\n#GTA6 #GTA #Gaming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bMq4OtZTigk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bMq4OtZTigk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bMq4OtZTigk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bMq4OtZTigk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bMq4OtZTigk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IGN",
+        "tags": [
+          "Grand Theft Auto 6",
+          "GTA 6",
+          "Rockstar Games",
+          "gta 6 trailer",
+          "gta 6 trailer breakdown",
+          "GTA6",
+          "GTA",
+          "Grand Theft Auto",
+          "GTA 6 Secrets",
+          "GTA 6 Map",
+          "GTA 6 Characters",
+          "GTA 6 Story",
+          "GTA 6 Trailer Reaction",
+          "GTA 6 Trailer Details",
+          "GTA VI",
+          "Grand Theft Auto VI",
+          "GTA 6 News",
+          "GTA 6 Breakdown",
+          "GTA 6 Breakdown Trailer",
+          "Gaming",
+          "IGN",
+          "GTA 6 New Details",
+          "GTA 6 References",
+          "Vice City",
+          "GTA 6 Vice City",
+          "GTA Vice City",
+          "GTA 6 Social Media",
+          "GTA 6 Easter Eggs",
+          "GTA 6 Trailer Deep Dive",
+          "New GTA",
+          "GTA 6 IGN"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "99 Details From the GTA 6 Trailer",
+          "description": "Don't miss our GTA 6 trailer breakdown! The GTA 6 trailer is finally here and we've looked over the entire footage and uncovered 99 hidden and hard to find details littered throughout our first look at GTA VI.\n\nThere are lots of cool new things to pick out from this brand new Grand Theft Auto 6 trailer from Rockstar Games, and in our GTA 6 trailer deep dive, we examine clues about GTA 6 map locations, hints about the GTA 6 world, glimpses of what might happen in the GTA 6 story, references to GTA Vice City, and more.\n\nThe GTA 6 release date is 2025 on PS5 and Xbox Series X/S.\n\nFor more on Grand Theft Auto VI, check out our GTA 6 trailer reaction video: https://www.youtube.com/watch?v=PuMSEkVqC9k\n\n#GTA6 #GTA #Gaming"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "igec7RfHYAZeD4MQr0mgKNOhdII",
+      "id": "RN-cUIKVzoc",
+      "snippet": {
+        "publishedAt": "2023-12-06T15:00:31Z",
+        "channelId": "UC85aYbNSFjsJdxfpxgQr8tA",
+        "title": "New Update - Town Hall 16 in Clash of Clans!",
+        "description": "TH16 Update Sneak Peek for Clash of Clans! Judo Sloth Gaming shares Town Hall 16 Gameplay as well as information on New Troop and Defense Levels coming in the update. There are numerous building upgrades shared alongside Balance Changes, Cost Reductions and the ability to finally attack your own base! This is only Sneak Peek 1 for the CoC December Update so be sure to subscribe for more Town Hall 16 content. The exact TH16 release date is not confirmed yet but it is typically shortly after sneak peeks and will be after Hammer Jam is finished. Clash On!\n\nI Beat Clash of Clans with a BROKEN Account: https://www.youtube.com/watch?v=sxCk13hStf0\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #TownHall16 #TH16\n\nVideo Chapters:\n0:00 Town Hall 16 Revealed\n1:01 New Hero and Defense Levels\n4:03 New Building Upgrades\n5:54 New Troop and Spell Levels\n12:14 Attack Your Own Base and Balance Changes\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RN-cUIKVzoc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RN-cUIKVzoc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RN-cUIKVzoc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RN-cUIKVzoc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RN-cUIKVzoc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Judo Sloth Gaming",
+        "tags": [
+          "clash of clans",
+          "coc",
+          "clash of clans gameplay",
+          "clash of clans attacks",
+          "clash of clans strategy",
+          "judo sloth",
+          "town hall 16",
+          "th16",
+          "town hall 16 update",
+          "th16 update",
+          "clash of clans town hall 16",
+          "clash of clans th16",
+          "coc th16",
+          "clash of clans update",
+          "coc update",
+          "december update",
+          "sneak peek 1",
+          "update sneak peek",
+          "town hall 16 gameplay",
+          "town hall 16 attack",
+          "th16 gameplay",
+          "th16 attack",
+          "th16 info",
+          "town hall 16 date",
+          "th16 date",
+          "town hall 16 defense",
+          "th16 defense"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "New Update - Town Hall 16 in Clash of Clans!",
+          "description": "TH16 Update Sneak Peek for Clash of Clans! Judo Sloth Gaming shares Town Hall 16 Gameplay as well as information on New Troop and Defense Levels coming in the update. There are numerous building upgrades shared alongside Balance Changes, Cost Reductions and the ability to finally attack your own base! This is only Sneak Peek 1 for the CoC December Update so be sure to subscribe for more Town Hall 16 content. The exact TH16 release date is not confirmed yet but it is typically shortly after sneak peeks and will be after Hammer Jam is finished. Clash On!\n\nI Beat Clash of Clans with a BROKEN Account: https://www.youtube.com/watch?v=sxCk13hStf0\n\nJoin 'The Dojo' to gain Exclusive Perks by becoming a Member of the Judo Sloth Gaming YT Channel: https://www.youtube.com/judosloth/join\n\nThank you for using Code 'Judo' in Clash of Clans to support me: https://bit.ly/CodeJudo\n\nMy Clash of Clans Playlists\nClash Explained: https://bit.ly/ClashExplained\nBase Upgrading Advice: https://bit.ly/UpgradeBase\nTip for Everything Series: https://bit.ly/TipsForEverything\n\nWatch my Livestreams on Twitch and Facebook:\nTWITCH ► https://www.twitch.tv/judo_sloth\nFACEBOOK ► https://www.facebook.com/JudoSloth\n\nFollow me on Social Media:\nTWITTER ► https://twitter.com/JudoSloth\nINSTAGRAM ► https://www.instagram.com/judosloth\nDISCORD ► https://discord.gg/JudoSloth\n\n#ClashOfClans #TownHall16 #TH16\n\nVideo Chapters:\n0:00 Town Hall 16 Revealed\n1:01 New Hero and Defense Levels\n4:03 New Building Upgrades\n5:54 New Troop and Spell Levels\n12:14 Attack Your Own Base and Balance Changes\n\n► Judo Sloth Gaming is a mobile gaming channel focused on Clash of Clans. You will see a variety of videos focused on being Educational but Entertaining! You will find Informational Guides on Everything in CoC. Attack Strategies, 3 Star Attacks, Farming or Upgrade Advice, Lets Play and Update News - you'll want to Subscribe to see it all. Clash On!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "2ogquyDSt99Gvkh5_bS54C-wmsY",
+      "id": "skMFBH0a6yw",
+      "snippet": {
+        "publishedAt": "2023-12-06T16:00:45Z",
+        "channelId": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+        "title": "Emily Blunt & Anne Hathaway | Actors on Actors",
+        "description": "'The Devil Wears Prada' stars Anne Hathaway ('Eileen') & Emily Blunt ('Oppenheimer') take a trip down memory lane and remember all the best parts of filming the cultural phenomenon. Spoilers for 'Eileen' within.\n\nVariety Actors on Actors presented by Amazon Studios/MGM.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/skMFBH0a6yw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/skMFBH0a6yw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/skMFBH0a6yw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/skMFBH0a6yw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/skMFBH0a6yw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Variety",
+        "tags": ["Variety", "Variety Studio"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Emily Blunt & Anne Hathaway | Actors on Actors",
+          "description": "'The Devil Wears Prada' stars Anne Hathaway ('Eileen') & Emily Blunt ('Oppenheimer') take a trip down memory lane and remember all the best parts of filming the cultural phenomenon. Spoilers for 'Eileen' within.\n\nVariety Actors on Actors presented by Amazon Studios/MGM.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mPqUDj7d2TNnSdL4mOMgs3kbSN0",
+      "id": "fl-wz50yAHo",
+      "snippet": {
+        "publishedAt": "2023-12-06T11:05:02Z",
+        "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+        "title": "Tesla Cybertruck v Lamborghini Urus: DRAG RACE",
+        "description": "Welcome to the ULTIMATE petrol vs electric drag race! \n\nWe’ve got our hands on the all-new Tesla Cybertruck, and it’s lining up alongside the a Lamborghini Urus! But which will come out on top - petrol, or electric? \n\nWell, let’s check out the stats. Starting with the Cybertruck, it rolls up equipped with three electric motors, and they combine to produce 845hp and 930Nm of torque. The starting price of the dual-motor edition is around $49,000, but for this tri-motor Cyberbeast edition, it’ll cost you around $96,000! In terms of weight, the Cybertruck tips the scales at just over 3 tonnes. It also has a top speed of 130mph. \n\nThen we have the Lambo. It’s packing a 4-litre twin-turbo V8 under the bonnet, and this can produce 650hp and 850Nm of torque. Power is sent to all four wheels via an 8-speed torque converter gearbox, and it’s a whole lot lighter than the Tesla, tipping the scales at 2,200kg. It also has a much bigger top speed, coming in at 190mph. \n\nSo the Cybertruck has the Urus beat when it comes to performance stats, but will the extra weight drag it down? There’s only one way to find out for sure… LET’S RACE!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fl-wz50yAHo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fl-wz50yAHo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fl-wz50yAHo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fl-wz50yAHo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fl-wz50yAHo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "carwow",
+        "tags": [
+          "carwow",
+          "mat watson",
+          "car review",
+          "new car review",
+          "car review 2023",
+          "new car 2023",
+          "tesla",
+          "tesla cybertruck",
+          "cybertruck",
+          "cyber truck",
+          "tesla cyber truck",
+          "cybertruck drag race",
+          "cybertruck hp",
+          "cybertruck bhp",
+          "cybertruck performance",
+          "tesla cybertruck drag race",
+          "electric suv",
+          "electric pick-up",
+          "electric pick-up truck",
+          "lambo",
+          "lamborghini",
+          "lamborghini urus",
+          "urus",
+          "lambo urus",
+          "lamborghini urus drag race",
+          "lambo urus drag race",
+          "urus drag race",
+          "cybertruck v urus"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Tesla Cybertruck v Lamborghini Urus: DRAG RACE",
+          "description": "Welcome to the ULTIMATE petrol vs electric drag race! \n\nWe’ve got our hands on the all-new Tesla Cybertruck, and it’s lining up alongside the a Lamborghini Urus! But which will come out on top - petrol, or electric? \n\nWell, let’s check out the stats. Starting with the Cybertruck, it rolls up equipped with three electric motors, and they combine to produce 845hp and 930Nm of torque. The starting price of the dual-motor edition is around $49,000, but for this tri-motor Cyberbeast edition, it’ll cost you around $96,000! In terms of weight, the Cybertruck tips the scales at just over 3 tonnes. It also has a top speed of 130mph. \n\nThen we have the Lambo. It’s packing a 4-litre twin-turbo V8 under the bonnet, and this can produce 650hp and 850Nm of torque. Power is sent to all four wheels via an 8-speed torque converter gearbox, and it’s a whole lot lighter than the Tesla, tipping the scales at 2,200kg. It also has a much bigger top speed, coming in at 190mph. \n\nSo the Cybertruck has the Urus beat when it comes to performance stats, but will the extra weight drag it down? There’s only one way to find out for sure… LET’S RACE!"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3ui9bF-h_aja1s3bUMUyHbMwhJs",
+      "id": "UIZAiXYceBI",
+      "snippet": {
+        "publishedAt": "2023-12-06T15:01:17Z",
+        "channelId": "UCK8sQmJBp8GCxrOtXWBpyEA",
+        "title": "Hands-on with Gemini: Interacting with multimodal AI",
+        "description": "Gemini is our natively multimodal AI model capable of reasoning across text, images, audio, video and code. This video highlights some of our favorite interactions with Gemini. Learn more and try the model: https://deepmind.google/gemini \n\nExplore our prompting approaches here: https://goo.gle/how-its-made-gemini \n\nFor the purposes of this demo, latency has been reduced and Gemini outputs have been shortened for brevity.\n\nSubscribe to our Channel: https://www.youtube.com/google\r\nTweet with us on Twitter: https://twitter.com/google\r\nFollow us on Instagram: https://www.instagram.com/google\r\nJoin us on Facebook: https://www.facebook.com/Google\n\n0:00 Intro\n0:19 Multimodal Dialogue\n1:32 Multilinguality\n2:04 Game Creation\n2:31 Visual Puzzles\n3:17 Making Connections\n3:39 Image & Text Generation\n4:06 Logic & Spatial Reasoning\n4:55 Translating Visuals\n5:27 Cultural Understanding",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UIZAiXYceBI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UIZAiXYceBI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UIZAiXYceBI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UIZAiXYceBI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UIZAiXYceBI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Hands-on with Gemini: Interacting with multimodal AI",
+          "description": "Gemini is our natively multimodal AI model capable of reasoning across text, images, audio, video and code. This video highlights some of our favorite interactions with Gemini. Learn more and try the model: https://deepmind.google/gemini \n\nExplore our prompting approaches here: https://goo.gle/how-its-made-gemini \n\nFor the purposes of this demo, latency has been reduced and Gemini outputs have been shortened for brevity.\n\nSubscribe to our Channel: https://www.youtube.com/google\r\nTweet with us on Twitter: https://twitter.com/google\r\nFollow us on Instagram: https://www.instagram.com/google\r\nJoin us on Facebook: https://www.facebook.com/Google\n\n0:00 Intro\n0:19 Multimodal Dialogue\n1:32 Multilinguality\n2:04 Game Creation\n2:31 Visual Puzzles\n3:17 Making Connections\n3:39 Image & Text Generation\n4:06 Logic & Spatial Reasoning\n4:55 Translating Visuals\n5:27 Cultural Understanding"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WTAcDU7WlfvLAecaaRtRaB1L3xo",
+      "id": "qF45BF2Dasg",
+      "snippet": {
+        "publishedAt": "2023-12-05T20:57:29Z",
+        "channelId": "UCGeBogGDZ9W3dsGx-mWQGJA",
+        "title": "Randy Orton Returns To WWE - IMPAULSIVE EP. 401",
+        "description": "14x WWE Champion Randy Orton joins the boys to discuss how he created the RKO, rivalry vs John Cena, getting blackballed from WWE by Vince McMahon, if he’s the GOAT, hilarious Brock Lesnar & Triple H stories, being an a**hole, hatred for Dominik Mysterio, RKO’ing fans in public & more…\n\nSUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive\n\nLISTEN ON:\nITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2\nSPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw\nCASTBOX: https://castbox.fm/vc/1486024\nPODCAST ADDICT: https://podcastaddict.com/podcast/3224924\n\nGo to https://www.bluenile.com/ today and save up to 50% on \rstunning jewelry gifts already priced below traditional retail\n\nWatch Previous (Casey Neistat’s Falling Out with David Dobrik, PRIME vs. Feastables, #1 Advice for YouTubers) ► https://www.youtube.com/watch?v=JHDuaMHxU8k&t=2152s\n\nADD US ON:\nINSTAGRAM: https://www.instagram.com/impaulsiveshow/\n\nTimestamps\n0:00 Welcome Randy Orton! 💥\n6:08 Logan Paul vs Rey Mysterio (Viral Fail)‼️\n7:58 Randy gives Logan WWE Flowers! 💐\n9:27 John Cena Rivalry & Viral DDT! 🤬\n17:02 WWE GOAT? 🐐\n19:30 Blackballed from WWE?! 🎱\n23:09 Young Brock Lesnar Fail! 🤣\n25:40 Trash-Talking Dominik Mysterio! 😡\n30:39 How RKO was Created **exclusive** 😨\n36:59 Favorite RKO Ever & RKO’ing Fans! 🤯\n40:40 Addicted to Video Games?! 🎮\n48:24 “I was an As*hole!” 😱\n52:14 Respecting the Troops & Make A Wish 🫡\n54:47 Logan Rubs his Belt in Randy’s Face! 😳\n\n***PLEASE NOTE***\nImpaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.\n\n#RandyOrton #WWE #LoganPaul",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qF45BF2Dasg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qF45BF2Dasg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qF45BF2Dasg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qF45BF2Dasg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qF45BF2Dasg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "IMPAULSIVE",
+        "tags": [
+          "podcast guest",
+          "impaulsive",
+          "impaulsive podcast",
+          "logan paul podcast",
+          "logan paul",
+          "wwe",
+          "logan paul and randy orton",
+          "logan paul rey mysterio",
+          "randy orton",
+          "randy orton returns",
+          "randy orton best rko",
+          "rko meme",
+          "how randy orton created the rko",
+          "john cena vs randy orton",
+          "triple h and randy orton",
+          "vince mcmahon and randy orton",
+          "brock lesner",
+          "dominik mysterio randy orton",
+          "rko in public",
+          "cod",
+          "starfield",
+          "john cena hollywood",
+          "logan paul wwe belt",
+          "randy orton ddt",
+          "who is wwe goat"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Randy Orton Returns To WWE - IMPAULSIVE EP. 401",
+          "description": "14x WWE Champion Randy Orton joins the boys to discuss how he created the RKO, rivalry vs John Cena, getting blackballed from WWE by Vince McMahon, if he’s the GOAT, hilarious Brock Lesnar & Triple H stories, being an a**hole, hatred for Dominik Mysterio, RKO’ing fans in public & more…\n\nSUBSCRIBE TO THE PODCAST ► https://www.youtube.com/impaulsive\n\nLISTEN ON:\nITUNES: https://itunes.apple.com/us/podcast/impaulsive-with-logan-paul/id1442164847?mt=2\nSPOTIFY: https://open.spotify.com/show/36PzTdM4rvRPaJYdBW1ZNa?si=NIdEVBarRWuw17x3ubWZCw\nCASTBOX: https://castbox.fm/vc/1486024\nPODCAST ADDICT: https://podcastaddict.com/podcast/3224924\n\nGo to https://www.bluenile.com/ today and save up to 50% on \rstunning jewelry gifts already priced below traditional retail\n\nWatch Previous (Casey Neistat’s Falling Out with David Dobrik, PRIME vs. Feastables, #1 Advice for YouTubers) ► https://www.youtube.com/watch?v=JHDuaMHxU8k&t=2152s\n\nADD US ON:\nINSTAGRAM: https://www.instagram.com/impaulsiveshow/\n\nTimestamps\n0:00 Welcome Randy Orton! 💥\n6:08 Logan Paul vs Rey Mysterio (Viral Fail)‼️\n7:58 Randy gives Logan WWE Flowers! 💐\n9:27 John Cena Rivalry & Viral DDT! 🤬\n17:02 WWE GOAT? 🐐\n19:30 Blackballed from WWE?! 🎱\n23:09 Young Brock Lesnar Fail! 🤣\n25:40 Trash-Talking Dominik Mysterio! 😡\n30:39 How RKO was Created **exclusive** 😨\n36:59 Favorite RKO Ever & RKO’ing Fans! 🤯\n40:40 Addicted to Video Games?! 🎮\n48:24 “I was an As*hole!” 😱\n52:14 Respecting the Troops & Make A Wish 🫡\n54:47 Logan Rubs his Belt in Randy’s Face! 😳\n\n***PLEASE NOTE***\nImpaulsive is a significant break from the typical content viewers have come to expect from the vlog channel & we could not be more proud and excited to watch this unfold and grow. Please be advised that we will be exploring a wide variety of topics (some adult-themed) and our younger viewers (and their parents) should be advised that some topics will be for mature audiences only.\n\n#RandyOrton #WWE #LoganPaul"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Q7p_TsTcYVIGBlnSU9v0BgyKcH4",
+      "id": "T8_KOt0Ncdw",
+      "snippet": {
+        "publishedAt": "2023-12-05T18:48:45Z",
+        "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+        "title": "WE LOVE THE COMPANY | Lethal Company",
+        "description": "I think I understand now why this game is called... LETHAL Company. Bob, Wade, and I begin a new adventure of multiplayer horror!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► https://www.youtube.com/nerdfiction\nEdited By ► https://twitter.com/rad_r\nAnd ► https://www.youtube.com/LixianTV\n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T8_KOt0Ncdw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T8_KOt0Ncdw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T8_KOt0Ncdw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T8_KOt0Ncdw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T8_KOt0Ncdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Markiplier",
+        "tags": [
+          "markiplier",
+          "lethal company",
+          "mark bob wade",
+          "scary games",
+          "scary multiplayer",
+          "markiplier lethal company",
+          "lethal company gameplay",
+          "horror games",
+          "multiplayer horror games",
+          "funny moments",
+          "scary moments"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "WE LOVE THE COMPANY | Lethal Company",
+          "description": "I think I understand now why this game is called... LETHAL Company. Bob, Wade, and I begin a new adventure of multiplayer horror!\nLISTEN TO DISTRACTIBLE ►► https://open.spotify.com/show/2X40qLyoj1wQ2qE5FVpA7x\n\nEdited By ► https://www.youtube.com/nerdfiction\nEdited By ► https://twitter.com/rad_r\nAnd ► https://www.youtube.com/LixianTV\n\nAwesome Games Playlist ► https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE\n\nHappy Outro ► https://soundcloud.com/hielia/minimusicman-crazy-la-paint"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0GYAuEYQEUplaTJnitQlI0EMtq4",
+      "id": "MecVr3Bz4o0",
+      "snippet": {
+        "publishedAt": "2023-12-05T16:00:17Z",
+        "channelId": "UCgRQHK8Ttr1j9xCEpCAlgbQ",
+        "title": "Cillian Murphy & Margot Robbie | Actors on Actors",
+        "description": "The Barbenheimer phenomenon personified, Cillian Murphy ('Oppenheimer') & Margot Robbie ('Barbie') discuss the experience of being the biggest summer box office sensation since 'Avengers' and what it was like working with Christopher Nolan and Greta Gerwig.\n\nVariety Actors on Actors presented by Amazon Studios/MGM.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MecVr3Bz4o0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MecVr3Bz4o0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MecVr3Bz4o0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MecVr3Bz4o0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MecVr3Bz4o0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Variety",
+        "tags": [
+          "Variety",
+          "Variety Studio",
+          "cillian murphy",
+          "margot robbie",
+          "barbie",
+          "oppenheimer",
+          "cilian murphy",
+          "margot robbie cillian murphy",
+          "barbenheimer"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cillian Murphy & Margot Robbie | Actors on Actors",
+          "description": "The Barbenheimer phenomenon personified, Cillian Murphy ('Oppenheimer') & Margot Robbie ('Barbie') discuss the experience of being the biggest summer box office sensation since 'Avengers' and what it was like working with Christopher Nolan and Greta Gerwig.\n\nVariety Actors on Actors presented by Amazon Studios/MGM.\n\nhttp://bit.ly/VarietySubscribe\r\n\r\nhttp://www.facebook.com/variety\r\nhttp://www.instagram.com/variety\r\nhttp://www.twitter.com/variety"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E35MhaiHY38j4rBFMEWHJ2Hx1Ws",
+      "id": "DVK_BOxsYCQ",
+      "snippet": {
+        "publishedAt": "2023-12-06T14:55:19Z",
+        "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+        "title": "Get Ready For Town Hall 16! Clash of Clans New Update",
+        "description": "Town Hall 16’s nature theme is easy to see with its tree-influenced design. Even Town Hall 16’s Giga Inferno beam is like a magnified solar blast from the sun. \n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #townhall16 #th16 #forceofnature #newupdate",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DVK_BOxsYCQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DVK_BOxsYCQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DVK_BOxsYCQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DVK_BOxsYCQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DVK_BOxsYCQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Clash of Clans",
+        "tags": [
+          "clash of clans",
+          "COC",
+          "Clash of Clans Gameplay",
+          "Clash of Clans Strategy",
+          "Clash of Clans Animation",
+          "Clash of Clans Commercial",
+          "Clash of Clans Attacks",
+          "Clash of Clans Town Hall",
+          "Hog Rider",
+          "PEKKA",
+          "Clan Wars",
+          "season challenges",
+          "clan war leagues",
+          "clash on",
+          "clan game",
+          "clan games",
+          "clash-a-rama",
+          "clasharama",
+          "town hall 16 reveal",
+          "th16",
+          "town hall 16",
+          "force of nature",
+          "clash of clans new update",
+          "new town hall reveal"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Get Ready For Town Hall 16! Clash of Clans New Update",
+          "description": "Town Hall 16’s nature theme is easy to see with its tree-influenced design. Even Town Hall 16’s Giga Inferno beam is like a magnified solar blast from the sun. \n\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. http://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #townhall16 #th16 #forceofnature #newupdate"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "E1RLM3X-1UCJhssW5mTUUQiPHm0",
+      "id": "lA-1JCRguZ0",
+      "snippet": {
+        "publishedAt": "2023-12-06T13:59:58Z",
+        "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+        "title": "Masters of the Air — Official Trailer | Apple TV+",
+        "description": "From the executive producers of Band of Brothers and The Pacific comes Masters of the Air. The 9-part series event premieres January 26 https://apple.co/_MastersOfTheAir\n\nBased on Donald L. Miller’s book of the same name, and scripted by John Orloff, “Masters of the Air” follows the men of the 100th Bomb Group (the “Bloody Hundredth”) as they conduct perilous bombing raids over Nazi Germany and grapple with the frigid conditions, lack of oxygen, and sheer terror of combat conducted at 25,000 feet in the air. Portraying the psychological and emotional price paid by these young men as they helped destroy the horror of Hitler’s Third Reich, is at the heart of “Masters of the Air.” Some were shot down and captured; some were wounded or killed. And some were lucky enough to make it home. Regardless of individual fate, a toll was exacted on them all.\n\nThe series features a stellar cast led by Academy Award nominee Austin Butler, Callum Turner, Anthony Boyle and Nate Mann, who are joined by Raff Law, Academy Award nominee Barry Keoghan, Josiah Cross, Branden Cook and Ncuti Gatwa.\n\nHailing from Apple Studios, \"Masters of the Air\" is executive produced by Steven Spielberg through Amblin Television, and Tom Hanks and Gary Goetzman for Playtone. Amblin Television’s Darryl Frank and Justin Falvey co-executive produce alongside Playtone’s Steven Shareshian. In addition to writing, Orloff co-executive produces. Graham Yost also serves as co-executive producer. Anna Boden & Ryan Fleck, Cary Joji Fukunaga, Dee Rees and Tim Van Patten serve as directors.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple Films:\nInstagram: https://instagram.com/AppleFilms\nTwitter: https://twitter.com/AppleFilms\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#MastersOfTheAir #Trailer #AppleTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lA-1JCRguZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lA-1JCRguZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lA-1JCRguZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lA-1JCRguZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lA-1JCRguZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple TV",
+        "tags": [
+          "masters of the air",
+          "master of the air",
+          "trailer",
+          "trailers",
+          "masters of the air trailer",
+          "official trailer",
+          "masters of the air official trailer",
+          "austin butler",
+          "masters of the air austin butler",
+          "callum turner",
+          "anthony boyle",
+          "nate mann",
+          "raff law",
+          "barry keoghan",
+          "josiah cross",
+          "branden cook",
+          "steven spielberg",
+          "tom hanks",
+          "gary goetzman",
+          "series",
+          "masters of the air apple tv",
+          "adaptation",
+          "apple tv",
+          "apple",
+          "tv",
+          "apple tv+",
+          "apple tv plus",
+          "apple tv app",
+          "apple original",
+          "world war II",
+          "world war"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Masters of the Air — Official Trailer | Apple TV+",
+          "description": "From the executive producers of Band of Brothers and The Pacific comes Masters of the Air. The 9-part series event premieres January 26 https://apple.co/_MastersOfTheAir\n\nBased on Donald L. Miller’s book of the same name, and scripted by John Orloff, “Masters of the Air” follows the men of the 100th Bomb Group (the “Bloody Hundredth”) as they conduct perilous bombing raids over Nazi Germany and grapple with the frigid conditions, lack of oxygen, and sheer terror of combat conducted at 25,000 feet in the air. Portraying the psychological and emotional price paid by these young men as they helped destroy the horror of Hitler’s Third Reich, is at the heart of “Masters of the Air.” Some were shot down and captured; some were wounded or killed. And some were lucky enough to make it home. Regardless of individual fate, a toll was exacted on them all.\n\nThe series features a stellar cast led by Academy Award nominee Austin Butler, Callum Turner, Anthony Boyle and Nate Mann, who are joined by Raff Law, Academy Award nominee Barry Keoghan, Josiah Cross, Branden Cook and Ncuti Gatwa.\n\nHailing from Apple Studios, \"Masters of the Air\" is executive produced by Steven Spielberg through Amblin Television, and Tom Hanks and Gary Goetzman for Playtone. Amblin Television’s Darryl Frank and Justin Falvey co-executive produce alongside Playtone’s Steven Shareshian. In addition to writing, Orloff co-executive produces. Graham Yost also serves as co-executive producer. Anna Boden & Ryan Fleck, Cary Joji Fukunaga, Dee Rees and Tim Van Patten serve as directors.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nFacebook: https://facebook.com/AppleTV\nTwitter: https://twitter.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nFollow Apple Films:\nInstagram: https://instagram.com/AppleFilms\nTwitter: https://twitter.com/AppleFilms\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV+ is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV+\n\n#MastersOfTheAir #Trailer #AppleTV"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9D3P2I1Mp0ZBD9m4of9NDLgs2os",
+      "id": "cwIiolgAoZo",
+      "snippet": {
+        "publishedAt": "2023-12-06T05:00:23Z",
+        "channelId": "UCTvgnaLSfM5nqrabqrRJXMg",
+        "title": "WE ARE PREGNANT!!!",
+        "description": "We are so blessed to able to share another beautiful journey with you guys ! thank you for all your well wishes and love !! we appreciate every single one of you! I can't believe we are going to be a parents of 3! send tips haha \n\nsharing our pregnancy with you guys is my favorite can't wait for the rest of the videos!! \n\nFOLLOW US ON SOCIAL MEDIA\n\nBUSINESS INQUIRIES : \nLaura@revel-mgmt.com ❤️\n\n\nLAURA'S SOCIAL MEDIA \n\ninstagram : LauraMellado  \n\ntwitter : lauramellado  \n\nSNAPCHAT : lauramellado\n\nTIK TOK : @LAURASMELLADO\n\nTWITTER : @LAURASMELLADO\n\n\nVICTOR'S SOCIAL MEDIA\n\ninstagram : victootall\nSnapchat : victootall\n\nTIKTOK : @VICTOOTALL\n\n#lvefamily #pregnant",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwIiolgAoZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwIiolgAoZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwIiolgAoZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cwIiolgAoZo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "LVE FAMILY",
+        "tags": [
+          "pregnancy",
+          "announcement",
+          "pregnant",
+          "lauramelladopregnant",
+          "lvefamilypregnant",
+          "lauramelladopreggo",
+          "lauramelladopregnancy",
+          "laurahallman",
+          "victorhallman"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WE ARE PREGNANT!!!",
+          "description": "We are so blessed to able to share another beautiful journey with you guys ! thank you for all your well wishes and love !! we appreciate every single one of you! I can't believe we are going to be a parents of 3! send tips haha \n\nsharing our pregnancy with you guys is my favorite can't wait for the rest of the videos!! \n\nFOLLOW US ON SOCIAL MEDIA\n\nBUSINESS INQUIRIES : \nLaura@revel-mgmt.com ❤️\n\n\nLAURA'S SOCIAL MEDIA \n\ninstagram : LauraMellado  \n\ntwitter : lauramellado  \n\nSNAPCHAT : lauramellado\n\nTIK TOK : @LAURASMELLADO\n\nTWITTER : @LAURASMELLADO\n\n\nVICTOR'S SOCIAL MEDIA\n\ninstagram : victootall\nSnapchat : victootall\n\nTIKTOK : @VICTOOTALL\n\n#lvefamily #pregnant"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qofN5kS0aOcYUWeS4thWPe0YIYg",
+      "id": "UsbZpD3CrBc",
+      "snippet": {
+        "publishedAt": "2023-12-05T01:42:47Z",
+        "channelId": "UC72PuhDwKtZ5MikpGNhPAtA",
+        "title": "50 THINGS YOU MISSED IN THE GTA 6 TRAILER! GTA 6 Trailer Breakdown",
+        "description": "everything you missed from the grand theft auto vi trailer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UsbZpD3CrBc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TGG",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "50 THINGS YOU MISSED IN THE GTA 6 TRAILER! GTA 6 Trailer Breakdown",
+          "description": "everything you missed from the grand theft auto vi trailer"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fRH4KZwq4eQdkauzKYTi5Fwn50A",
+      "id": "cD4hxKkqR4E",
+      "snippet": {
+        "publishedAt": "2023-12-06T16:10:41Z",
+        "channelId": "UCbbQalJ4OaC0oQ0AqRaOJ9g",
+        "title": "You'll never guess the most popular internet country code",
+        "description": "Go to https://betterhelp.com/mapmen for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help. #ad\n\nHave you ever stopped to think why the two-letter country codes in the world's websites are what they are? We have*, and it turns out it's a fascinating tale with a lovely detailed map to stare at. \n\n* Actually, it was Jonathan ('flocky') Flockton who suggested it, and it was a really good idea. Thanks Flocky!\n\nThanks to Nominet\nhttps://www.nominet.uk/delving-into-the-digital-world-map/\n\nBUY MAP MEN MUGS, T-SHIRTS, POSTERS ETC...\nhttp://www.mapmenmerch.com \n\nSEE NEW EPISODES EARLY, AND BEHIND-THE-SCENES EXTRAS...\nhttp://www.patreon.com/jayforeman\n\nWritten and presented by\nJAY FOREMAN https://www.twitter.com/jayforeman\nMARK COOPER-JONES https://www.twitter.com/markcooperjones\n \nDirector/DOP\nJADE NAGI https://www.twitter.com/jade_nagi\n\nEdited by\nJAY FOREMAN \n \nRunner\nABBY TIMMS\n\nVFX\nDAVE BRAIN https://www.youtube.com/guksack\n\nBatty McFadden - Slower by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200003\nArtist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cD4hxKkqR4E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cD4hxKkqR4E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cD4hxKkqR4E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cD4hxKkqR4E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cD4hxKkqR4E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jay Foreman",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "You'll never guess the most popular internet country code",
+          "description": "Go to https://betterhelp.com/mapmen for 10% off your first month of therapy with BetterHelp and get matched with a therapist who will listen and help. #ad\n\nHave you ever stopped to think why the two-letter country codes in the world's websites are what they are? We have*, and it turns out it's a fascinating tale with a lovely detailed map to stare at. \n\n* Actually, it was Jonathan ('flocky') Flockton who suggested it, and it was a really good idea. Thanks Flocky!\n\nThanks to Nominet\nhttps://www.nominet.uk/delving-into-the-digital-world-map/\n\nBUY MAP MEN MUGS, T-SHIRTS, POSTERS ETC...\nhttp://www.mapmenmerch.com \n\nSEE NEW EPISODES EARLY, AND BEHIND-THE-SCENES EXTRAS...\nhttp://www.patreon.com/jayforeman\n\nWritten and presented by\nJAY FOREMAN https://www.twitter.com/jayforeman\nMARK COOPER-JONES https://www.twitter.com/markcooperjones\n \nDirector/DOP\nJADE NAGI https://www.twitter.com/jade_nagi\n\nEdited by\nJAY FOREMAN \n \nRunner\nABBY TIMMS\n\nVFX\nDAVE BRAIN https://www.youtube.com/guksack\n\nBatty McFadden - Slower by Kevin MacLeod is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1200003\nArtist: http://incompetech.com/"
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5O0o_Ex5Nhr3nOTHO07ruQpqW2I",
+      "id": "dztPfvT7F5U",
+      "snippet": {
+        "publishedAt": "2023-12-04T18:00:10Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Goku VS Superman (Dragon Ball VS DC Comics) | DEATH BATTLE!",
+        "description": "East vs west? More like battle of the best! Who wins this legendary fight?\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"Super\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \n► Stream on Spotify: https://open.spotify.com/track/7tHjfz8B8EgMUzKgaFQLHm?si=f29020bad8c64506\n\nAdditional Character Rigging: Winterstellar Studios\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dztPfvT7F5U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "DBX",
+          "DEATH BATTLE Cast",
+          "screwattack",
+          "deathbattle",
+          "roosterteeth",
+          "death battle",
+          "rooster teeth",
+          "death battle cast",
+          "ben singer",
+          "chad james",
+          "animation",
+          "animated fight",
+          "animated battle",
+          "who would win",
+          "who wins",
+          "superman",
+          "goku",
+          "dragon ball",
+          "dragonball",
+          "dragonballz",
+          "dragon ball super",
+          "DBZ",
+          "broly",
+          "daima",
+          "gohan",
+          "vegeta",
+          "clark kent",
+          "clarkkent",
+          "krypton",
+          "james gunn",
+          "super man",
+          "crunchyroll",
+          "versus",
+          "ultra instinct",
+          "super saiyan",
+          "teamfourstar",
+          "masakox",
+          "toriyama",
+          "akira",
+          "henry cavill"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Goku VS Superman (Dragon Ball VS DC Comics) | DEATH BATTLE!",
+          "description": "East vs west? More like battle of the best! Who wins this legendary fight?\nThis episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\n►  \"Super\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \n► Stream on Spotify: https://open.spotify.com/track/7tHjfz8B8EgMUzKgaFQLHm?si=f29020bad8c64506\n\nAdditional Character Rigging: Winterstellar Studios\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NiJt42V1XCHOSUajUhtFCIjCiTE",
+      "id": "2AXv49dDQJw",
+      "snippet": {
+        "publishedAt": "2023-12-06T11:00:00Z",
+        "channelId": "UCCWeRTgd79JL0ilH0ZywSJA",
+        "title": "Watch electricity hit a fork in the road at half a billion frames per second",
+        "description": "In this video, I measure a wave of electricity traveling down a wire, and answer the question - how does electricity know where to go? How does \"electricity\" \"decide\" where electrons should be moving in wires, and how long does that process take? Spoiler alert - very fast!\n\nI've been very excited about this project for a while - it was a lot of work to figure out a reliable way to make these measurements, but I've learned SO much by actually watching waves travel down wires, and I hope you do too!\n\nThere will be a Q&A about this video posted in a few weeks on the second channel, and if you head over there right now, you'll see two direct follow ups to this video with experimental details, and a section about \"impedance matching\" that was cut from this script.\nhttps://www.youtube.com/@AlphaPhoenix2\n\nSpecial thanks to my top Patreon supporters!\nbirdiesnbritts\nJohn Sosa Trustham\nVladimir Shklovsky\nAloysius Sparglepartz\nRyan M\nJason Whatley\nLohann Paterno Coutinho Ferreira\nKasper Nielsen\nJeffrey Mckishen\nhttps://www.patreon.com/AlphaPhoenix\n\nMedia Credits:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/...) http://ccmixter.org/files/grapes/16626\nArcadia - Wonders by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100326 Artist: http://incompetech.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2AXv49dDQJw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2AXv49dDQJw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2AXv49dDQJw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2AXv49dDQJw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2AXv49dDQJw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AlphaPhoenix",
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Watch electricity hit a fork in the road at half a billion frames per second",
+          "description": "In this video, I measure a wave of electricity traveling down a wire, and answer the question - how does electricity know where to go? How does \"electricity\" \"decide\" where electrons should be moving in wires, and how long does that process take? Spoiler alert - very fast!\n\nI've been very excited about this project for a while - it was a lot of work to figure out a reliable way to make these measurements, but I've learned SO much by actually watching waves travel down wires, and I hope you do too!\n\nThere will be a Q&A about this video posted in a few weeks on the second channel, and if you head over there right now, you'll see two direct follow ups to this video with experimental details, and a section about \"impedance matching\" that was cut from this script.\nhttps://www.youtube.com/@AlphaPhoenix2\n\nSpecial thanks to my top Patreon supporters!\nbirdiesnbritts\nJohn Sosa Trustham\nVladimir Shklovsky\nAloysius Sparglepartz\nRyan M\nJason Whatley\nLohann Paterno Coutinho Ferreira\nKasper Nielsen\nJeffrey Mckishen\nhttps://www.patreon.com/AlphaPhoenix\n\nMedia Credits:\nI Dunno by grapes is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/...) http://ccmixter.org/files/grapes/16626\nArcadia - Wonders by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100326 Artist: http://incompetech.com/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uaoZ91QuzDC2m9d_VNTGeGBIY7Y",
+      "id": "pxB4fHxDLzQ",
+      "snippet": {
+        "publishedAt": "2023-12-06T16:56:11Z",
+        "channelId": "UChDKyKQ59fYz3JO2fl0Z6sg",
+        "title": "Texas shooting spree leaves at least 6 dead, 3 injured",
+        "description": "A man in Texas is arrested and accused of a string of shootings over eight hours that left at least six people dead across multiple locations. Authorities are still searching for a motive. NBC’s Morgan Chesky reports for TODAY.\n\n» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n» Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n» Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#texas #shooting #gunviolence",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxB4fHxDLzQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxB4fHxDLzQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxB4fHxDLzQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxB4fHxDLzQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pxB4fHxDLzQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TODAY",
+        "tags": [
+          "Al Roker",
+          "Entertainment",
+          "Food",
+          "Health",
+          "Hoda Kotb",
+          "Home",
+          "International News",
+          "Money",
+          "Natalie Morales",
+          "Savannah Gutherie",
+          "Sports",
+          "Style",
+          "Today",
+          "Today Show",
+          "breaking news",
+          "concerts",
+          "domestic news",
+          "interviews",
+          "media",
+          "parents",
+          "pets",
+          "politics",
+          "shopping",
+          "weather"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Texas shooting spree leaves at least 6 dead, 3 injured",
+          "description": "A man in Texas is arrested and accused of a string of shootings over eight hours that left at least six people dead across multiple locations. Authorities are still searching for a motive. NBC’s Morgan Chesky reports for TODAY.\n\n» Subscribe to TODAY: http://on.today.com/SubscribeToTODAY\n» Watch the latest from TODAY: http://bit.ly/LatestTODAY\nAbout: TODAY brings you the latest headlines and expert tips on money, health and parenting. We wake up every morning to give you and your family all you need to start your day. If it matters to you, it matters to us. We are in the people business. Subscribe to our channel for exclusive TODAY archival footage & our original web series.\n\nConnect with TODAY Online!\nVisit TODAY's Website: http://on.today.com/ReadTODAY\nFind TODAY on Facebook: http://on.today.com/LikeTODAY\nFollow TODAY on Twitter: http://on.today.com/FollowTODAY\nFollow TODAY on Instagram: http://on.today.com/InstaTODAY\n\n» Stream TODAY All Day: https://www.today.com/allday\nAbout: TODAY All Day is a 24/7 streaming channel bringing you the top stories in news and pop culture, celebrity interviews, cooking, and more. All in one place.\n\n#texas #shooting #gunviolence"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "A4tQBc4HyEA2ik2NWF1ZF8c2Chs",
+      "id": "ucesGynb2Yk",
+      "snippet": {
+        "publishedAt": "2023-12-06T14:25:50Z",
+        "channelId": "UC_ntXHv-XdKCD7CPynVvnQw",
+        "title": "TEKKEN 8 — Dragunov Reveal & Gameplay Trailer",
+        "description": "He’d like to have a word with you.\nDragunov will make your blood turn cold in #TEKKEN8!\n\nPre-order TEKKEN 8 👉  https://bnent.eu/Preorder-TEKKEN8\nJoin the official TEKKEN server 👉  https://bnent.eu/TekkenDiscord\n\nFollow Tekken:\nInstagram: https://www.instagram.com/tekken\nTwitter: https://twitter.com/TEKKEN\nFacebook: https://www.facebook.com/TekkenAmericas\n\nFollow Bandai Namco Entertainment: \nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ucesGynb2Yk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ucesGynb2Yk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ucesGynb2Yk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ucesGynb2Yk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ucesGynb2Yk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment America",
+        "tags": [
+          "Bandai Namco",
+          "Bandai Namco Entertainment",
+          "Video",
+          "Games",
+          "video games",
+          "namco bandai",
+          "United States",
+          "PS5",
+          "PS4",
+          "Xbox Series X",
+          "tekken",
+          "tekken 8",
+          "tekken bandai",
+          "tekken reveal",
+          "tekken dragunov",
+          "dragunov",
+          "dragonov tekken",
+          "new tekken game",
+          "bandai namco tekken"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "TEKKEN 8 — Dragunov Reveal & Gameplay Trailer",
+          "description": "He’d like to have a word with you.\nDragunov will make your blood turn cold in #TEKKEN8!\n\nPre-order TEKKEN 8 👉  https://bnent.eu/Preorder-TEKKEN8\nJoin the official TEKKEN server 👉  https://bnent.eu/TekkenDiscord\n\nFollow Tekken:\nInstagram: https://www.instagram.com/tekken\nTwitter: https://twitter.com/TEKKEN\nFacebook: https://www.facebook.com/TekkenAmericas\n\nFollow Bandai Namco Entertainment: \nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hfXDL2lcf3tRMoIJv34CSKj5EUE",
+      "id": "RDXqb1Pub-Q",
+      "snippet": {
+        "publishedAt": "2023-12-06T13:32:06Z",
+        "channelId": "UC8Su5vZCXWRag13H53zWVwA",
+        "title": "Taylor Swift is TIME’s 2023 Person of the Year",
+        "description": "Since 1927, TIME has chosen a Person of the Year, the editors’ assessment of the individual who most shaped the headlines over the previous 12 months, for better or for worse. \n\nAs a tradition, Person of the Year springs from the Great Man Theory of history, a belief that individuals have the power to transform society. The selections over the years have tended to follow certain patterns. The person chosen has typically been a ruler over traditional domains of power. He—and yes, usually it has been a “he”—is very often a politician or a titan of industry. Fourteen U.S. Presidents, five leaders of Russia or the Soviet Union, and three Popes have all been recognized.\n\nAnd yet the person whose singular influence was revealed throughout 2023 has held none of these roles—or anything remotely similar. Every year contains light and dark; 2023 was a year with significant shares of darkness. In a divided world, where too many institutions are failing, Taylor Swift found a way to transcend borders and be a source of light. No one else on the planet today can move so many people so well. Achieving this feat is something we often chalk up to the alignments of planets and fates, but giving too much credit to the stars ignores her skill and her power. \n\nTaylor Swift is TIME’s 2023 Person of the Year.\n\nRead more: https://ti.me/4alhkbl\nSubscribe to TIME Breaking News YouTube Channel ►►: https://ti.me/3ROMUXY\nSubscribe to TIME’s YouTube channel ►► http://ti.me/subscribe-time\nSubscribe to TIME: https://ti.me/3E3UCqt\nGet the day’s top headlines to your inbox, curated by TIME editors: http://ti.me/the-brief\nFollow us:\nTwitter: https://ti.me/3xTVwSk\nFacebook: https://ti.me/3xWI2Fg\nInstagram: https://ti.me/3dO9Rcc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RDXqb1Pub-Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RDXqb1Pub-Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RDXqb1Pub-Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RDXqb1Pub-Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "TIME",
+        "tags": [
+          "Taylor Swift",
+          "Swifties",
+          "Swift",
+          "Taylor",
+          "Travis Kelce",
+          "Era's Tour",
+          "Era's",
+          "TIME",
+          "TIME POY",
+          "Person of the year",
+          "Person of the Year",
+          "Taylor Swift POY",
+          "Swift POY",
+          "Taylor Person",
+          "Taylor POY",
+          "Taylor Swift TIME",
+          "Taylor Swift Person of the Year"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Taylor Swift is TIME’s 2023 Person of the Year",
+          "description": "Since 1927, TIME has chosen a Person of the Year, the editors’ assessment of the individual who most shaped the headlines over the previous 12 months, for better or for worse. \n\nAs a tradition, Person of the Year springs from the Great Man Theory of history, a belief that individuals have the power to transform society. The selections over the years have tended to follow certain patterns. The person chosen has typically been a ruler over traditional domains of power. He—and yes, usually it has been a “he”—is very often a politician or a titan of industry. Fourteen U.S. Presidents, five leaders of Russia or the Soviet Union, and three Popes have all been recognized.\n\nAnd yet the person whose singular influence was revealed throughout 2023 has held none of these roles—or anything remotely similar. Every year contains light and dark; 2023 was a year with significant shares of darkness. In a divided world, where too many institutions are failing, Taylor Swift found a way to transcend borders and be a source of light. No one else on the planet today can move so many people so well. Achieving this feat is something we often chalk up to the alignments of planets and fates, but giving too much credit to the stars ignores her skill and her power. \n\nTaylor Swift is TIME’s 2023 Person of the Year.\n\nRead more: https://ti.me/4alhkbl\nSubscribe to TIME Breaking News YouTube Channel ►►: https://ti.me/3ROMUXY\nSubscribe to TIME’s YouTube channel ►► http://ti.me/subscribe-time\nSubscribe to TIME: https://ti.me/3E3UCqt\nGet the day’s top headlines to your inbox, curated by TIME editors: http://ti.me/the-brief\nFollow us:\nTwitter: https://ti.me/3xTVwSk\nFacebook: https://ti.me/3xWI2Fg\nInstagram: https://ti.me/3dO9Rcc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xaIylA2EmqpPEGynE2Jhj6wifFw",
+      "id": "ZInuZ9Ae3-4",
+      "snippet": {
+        "publishedAt": "2023-12-05T21:00:09Z",
+        "channelId": "UC8FHFLWe9KkG0eoxPMIgcpg",
+        "title": "Fredo Bang - Act Like You Can't Think (Official Video)",
+        "description": "Text “Fredo Bang” to 225-244-6998 for Exclusive Updates 🦍 \n\nFollow Fredo Bang: \nInstagram: https://instagram.com/fredobang\nFacebook: https://www.facebook.com/fredobangbiz/\nTwitter: https://twitter.com/fredobang\nTikTok: https://www.tiktok.com/@fredobangbigape\n\n#FredoBang",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZInuZ9Ae3-4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZInuZ9Ae3-4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZInuZ9Ae3-4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZInuZ9Ae3-4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZInuZ9Ae3-4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fredo Bang",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fredo Bang - Act Like You Can't Think (Official Video)",
+          "description": "Text “Fredo Bang” to 225-244-6998 for Exclusive Updates 🦍 \n\nFollow Fredo Bang: \nInstagram: https://instagram.com/fredobang\nFacebook: https://www.facebook.com/fredobangbiz/\nTwitter: https://twitter.com/fredobang\nTikTok: https://www.tiktok.com/@fredobangbigape\n\n#FredoBang"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "V-pxjhXSMg6qmVXr9icteYAEzks",
+      "id": "lV1OOlGwExM",
+      "snippet": {
+        "publishedAt": "2023-12-03T20:50:56Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Godzilla x Kong : The New Empire | Official Trailer",
+        "description": "Witness the rise of a new empire. #GodzillaXKong - Only in theaters 2024\n\nThe epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard.  The film stars Rebecca Hall (“Godzilla vs. Kong,” The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd..  The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull, Jon Jashni and Brian Rogers.  The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira. \n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”).  The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.”  It is slated for release nationwide only in theaters and IMAX on April 12, 2024 and beginning 10 April 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lV1OOlGwExM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "tags": [
+          "2024",
+          "Adam Wingard",
+          "Brian Tyree Henry",
+          "Coming Soon",
+          "Dan Stevens",
+          "Godzilla",
+          "Godzilla x Kong",
+          "Godzilla x Kong: The New Empire Kong",
+          "Jeremy Slater",
+          "King Kong",
+          "Legendary",
+          "Movie",
+          "Rebecca Hall",
+          "Simon Barrett",
+          "Skar King",
+          "Terry Rossio",
+          "Trailer",
+          "WB",
+          "Warner Bros",
+          "Warner Brothers"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Godzilla x Kong : The New Empire | Official Trailer",
+          "description": "Witness the rise of a new empire. #GodzillaXKong - Only in theaters 2024\n\nThe epic battle continues!  Legendary Pictures’ cinematic Monsterverse follows up the explosive showdown of “Godzilla vs. Kong” with an all-new adventure that pits the almighty Kong and the fearsome Godzilla against a colossal undiscovered threat hidden within our world, challenging their very existence—and our own. “Godzilla x Kong: The New Empire” delves further into the histories of these Titans and their origins, as well as the mysteries of Skull Island and beyond, while uncovering the mythic battle that helped forge these extraordinary beings and tied them to humankind forever.\n\nOnce again at the helm is director Adam Wingard.  The film stars Rebecca Hall (“Godzilla vs. Kong,” The Night House”), Brian Tyree Henry (“Godzilla vs. Kong,” “Bullet Train”), Dan Stevens (“Gaslit,” “Legion,” “Beauty and the Beast”), Kaylee Hottle (“Godzilla vs. Kong”), Alex Ferns (“The Batman,” “Wrath of Man,” “Chernobyl”) and Fala Chen (“Irma Vep,” “Shang Chi and the Legend of the Ten Rings”).\n\nThe screenplay is by Terry Rossio (“Godzilla vs. Kong” the “Pirates of the Caribbean” series) and Simon Barrett (“You’re Next”) and Jeremy Slater (“Moon Knight”), from a story by Rossio & Wingard & Barrett, based on the character “Godzilla” owned and created by TOHO Co., Ltd..  The film is produced by Mary Parent, Alex Garcia, Eric Mcleod, Thomas Tull, Jon Jashni and Brian Rogers.  The executive producers are Wingard, Jen Conroy, Jay Ashenfelter, Yoshimitsu Banno, Kenji Okuhira. \n\nOnce again, Wingard is collaborating with director of photography Ben Seresin (“Godzilla vs. Kong,” “World War Z”), production designer Tom Hammock (“Godzilla vs. Kong,” “X,” “The Guest”), editor Josh Schaeffer (“Godzilla vs. Kong,” “Molly’s Game”), costume designer Emily Seresin (“The Invisible Man,” “Top of the Lake”).  The composers are Tom Holkenborg (“Godzilla vs. Kong,” “Mad Max: Fury Road”) and Antonio Di Iorio (additional music on “Godzilla vs. Kong,” the “Sonic the Hedgehog” films).\n\nWarner Bros. Pictures and Legendary Pictures Present a Legendary Pictures Production, A Film By Adam Wingard, “Godzilla x Kong: The New Empire.”  It is slated for release nationwide only in theaters and IMAX on April 12, 2024 and beginning 10 April 2024 internationally, distributed by Warner Bros. Pictures except in Japan, where the film will be distributed by Toho Co., Ltd and in mainland China, where it will be distributed by Legendary East."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1rsPxBcjyz6k_bLZU6manU1ytHs",
+      "id": "pEGD7jJQfvM",
+      "snippet": {
+        "publishedAt": "2023-12-06T07:00:19Z",
+        "channelId": "UCLOIoa2aEGcM-z1hJx4vy4w",
+        "title": "Xochitl Gomez’s Finale Freestyle – Dancing with the Stars",
+        "description": "Xochitl Gomez & Val dance Freestyle to “Que Calor” by District 78 on Dancing with the Stars!\n\nDancing with the Stars is LIVE, Tuesdays at 8/7c on ABC and Disney+. Stream on Hulu.\n\nFollow Dancing with the Stars for the latest: \nInstagram: https://www.instagram.com/dancingwiththestars/\nTwitter: https://twitter.com/officialdwts\nFacebook: https://www.facebook.com/dancingwiththestars/\nTikTok: https://www.tiktok.com/@officialdwts",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pEGD7jJQfvM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pEGD7jJQfvM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pEGD7jJQfvM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pEGD7jJQfvM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pEGD7jJQfvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Dancing With The Stars",
+        "tags": [
+          "Disney+",
+          "Disney Plus",
+          "Disney",
+          "streaming",
+          "Dancing With The Stars",
+          "#DWTS",
+          "Alfonso Ribeiro",
+          "Julianne Hough",
+          "ABC",
+          "ABC Network",
+          "Hulu",
+          "Derek Hough",
+          "Carrie Ann Inaba",
+          "Bruno Tonioli",
+          "Xochitl Gomez"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xochitl Gomez’s Finale Freestyle – Dancing with the Stars",
+          "description": "Xochitl Gomez & Val dance Freestyle to “Que Calor” by District 78 on Dancing with the Stars!\n\nDancing with the Stars is LIVE, Tuesdays at 8/7c on ABC and Disney+. Stream on Hulu.\n\nFollow Dancing with the Stars for the latest: \nInstagram: https://www.instagram.com/dancingwiththestars/\nTwitter: https://twitter.com/officialdwts\nFacebook: https://www.facebook.com/dancingwiththestars/\nTikTok: https://www.tiktok.com/@officialdwts"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Js5Moansz-gOCDxlj8mOAHd7su0",
+      "id": "DM31F9qQGWw",
+      "snippet": {
+        "publishedAt": "2023-12-06T05:54:59Z",
+        "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+        "title": "SUNS at LAKERS | NBA IN-SEASON TOURNAMENT 🏆 | FULL GAME HIGHLIGHTS | December 5, 2023",
+        "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/NBAapp\n\nLeBron James leads the way with 31 points, 8 rebounds, 11 assists and 5 steals as the Los Angeles Lakers defeated the Phoenix Suns, 106-103 and advance to the IST Semifinals to face the Pelicans. Anthony Davis added 27 points and 15 rebounds in the victory, while Kevin Durant added 31 points (12-17 FG), 7 rebounds and 4 assists for the Suns. The Lakers improve to 13-9 on the season, while the Suns fall to 12-9.\n\nLeBron James became the 3rd Laker in franchise history with 30+ points, 10+ assists and 5+ steals in a game.\nMagic Johson (4x)\nGail Goodrich\n\nHe’s the 1st Laker since Kobe Bryant with 20+ points, 10+ assists and 5+ steals in a game\n11/17/2004 (23 pts, 11 ast, 5 stl)\n\nJames joins Jerry West as the only players to have 25+ points, 10+ assists, 5+ rebounds and 5+ steals in a game at the age of 35 or older\nWest (35y, 190d) – 26 pts, 14 ast, 9 reb, 5 stl (12/4/1973)\n\nThe Lakers will face the Pelicans in the IST semifinals on Thursday, Dec 7th at 9:00 PM ET, TNT.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DM31F9qQGWw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DM31F9qQGWw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DM31F9qQGWw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DM31F9qQGWw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DM31F9qQGWw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA",
+        "tags": ["Basketball", "G League", "NBA", "game-0022301203"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "SUNS at LAKERS | NBA IN-SEASON TOURNAMENT 🏆 | FULL GAME HIGHLIGHTS | December 5, 2023",
+          "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/NBAapp\n\nLeBron James leads the way with 31 points, 8 rebounds, 11 assists and 5 steals as the Los Angeles Lakers defeated the Phoenix Suns, 106-103 and advance to the IST Semifinals to face the Pelicans. Anthony Davis added 27 points and 15 rebounds in the victory, while Kevin Durant added 31 points (12-17 FG), 7 rebounds and 4 assists for the Suns. The Lakers improve to 13-9 on the season, while the Suns fall to 12-9.\n\nLeBron James became the 3rd Laker in franchise history with 30+ points, 10+ assists and 5+ steals in a game.\nMagic Johson (4x)\nGail Goodrich\n\nHe’s the 1st Laker since Kobe Bryant with 20+ points, 10+ assists and 5+ steals in a game\n11/17/2004 (23 pts, 11 ast, 5 stl)\n\nJames joins Jerry West as the only players to have 25+ points, 10+ assists, 5+ rebounds and 5+ steals in a game at the age of 35 or older\nWest (35y, 190d) – 26 pts, 14 ast, 9 reb, 5 stl (12/4/1973)\n\nThe Lakers will face the Pelicans in the IST semifinals on Thursday, Dec 7th at 9:00 PM ET, TNT."
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
