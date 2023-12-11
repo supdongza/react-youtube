@@ -7,18 +7,24 @@ import VideoCard from "../videoCard/VideoCard";
 const Search = () => {
   const [searchParams] = useSearchParams();
   const [keyword, setKeyword] = useState("");
-  const { isLoading, error, data } = useApiSearch(keyword);
+  const { isLoading, isError, data } = useApiSearch(keyword);
 
   useEffect(() => {
     setKeyword(searchParams.get("search_query"));
   }, [searchParams]);
 
   return (
-    <StyledVideoList>
-      {data?.map((video, index) => (
-        <VideoCard key={index} data={video} />
-      ))}
-    </StyledVideoList>
+    <>
+      {isLoading && <p>Loading...</p>}
+      {isError && <p>Something is wrong 😖</p>}
+      {data && (
+        <StyledVideoList>
+          {data?.map((video, index) => (
+            <VideoCard key={index} data={video} />
+          ))}
+        </StyledVideoList>
+      )}
+    </>
   );
 };
 

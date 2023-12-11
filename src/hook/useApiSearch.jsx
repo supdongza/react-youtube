@@ -2,15 +2,15 @@ import { useQuery } from "@tanstack/react-query";
 import { fetchApi } from "../api/fetch";
 
 const useApiSearch = (keyword) => {
-  const fetchSearch = fetchApi(keyword);
-
-  return useQuery({
+  const { isLoading, isError, data } = useQuery({
     queryKey: ["keyword", keyword],
-    queryFn: () => fetchSearch,
+    queryFn: () => fetchApi(keyword),
     staleTime: Infinity,
     cacheTime: Infinity,
     refetchOnWindowFocus: false,
   });
+
+  return { isLoading, isError, data };
 };
 
 export default useApiSearch;

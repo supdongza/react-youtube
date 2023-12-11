@@ -2,15 +2,15 @@ import { useQuery } from "@tanstack/react-query";
 import { fetchApiRelated } from "../api/fetch";
 
 const useApiRelated = (channelId) => {
-  const fetchRelated = fetchApiRelated(channelId);
-
-  return useQuery({
+  const { isLoading, isError, data } = useQuery({
     queryKey: ["related", channelId],
-    queryFn: () => fetchRelated,
+    queryFn: () => fetchApiRelated(channelId),
     staleTime: Infinity,
     cacheTime: Infinity,
     refetchOnWindowFocus: false,
   });
+
+  return { isLoading, isError, data };
 };
 
 export default useApiRelated;

@@ -4,16 +4,20 @@ import useApiTrending from "../../hook/useApiTrending";
 import VideoCard from "../videoCard/VideoCard";
 
 const Home = () => {
-  const { isLoading, error, data } = useApiTrending();
+  const { isLoading, isError, data } = useApiTrending();
   console.log(data);
 
   return (
     <div>
-      <StyledVideoList>
-        {data?.map((video, index) => (
-          <VideoCard key={index} data={video} />
-        ))}
-      </StyledVideoList>
+      {isLoading && <p>Loading...</p>}
+      {isError && <p>Something is wrong 😖</p>}
+      {data && (
+        <StyledVideoList>
+          {data?.map((video, index) => (
+            <VideoCard key={index} data={video} />
+          ))}
+        </StyledVideoList>
+      )}
     </div>
   );
 };

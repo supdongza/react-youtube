@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo } from "react";
+import React, { useMemo } from "react";
 import styled from "styled-components";
 import useApiChannel from "../../hook/useApiChannel";
 import { useLocation, useParams } from "react-router-dom";
@@ -30,7 +30,7 @@ const Video = () => {
     <StyledWrap>
       <StyledVideoInfo>
         <StyledVideoBox>
-          <iframe {...iframeProps}></iframe>
+          <iframe title="videoDetail" {...iframeProps}></iframe>
         </StyledVideoBox>
         <StyledTitle>{title}</StyledTitle>
         <VideoChannel channelInfo={{ channelTitle, channelThumb }} />
